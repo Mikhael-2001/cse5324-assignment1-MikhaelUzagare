@@ -23,5 +23,4 @@ This repository demonstrates fundamental Git operations including branching, mer
 | `git push` | Uploaded local branch commits to the remote repository. |
 | `git merge` | Combined feature branches into the main branch. |
 
-
-# PROJECT STATUS: Version A - All features implemented.
+## Project Features: Mathematical calculator module, secure user authentication, and logging functionality.
